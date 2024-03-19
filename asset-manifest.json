@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/srinivasPagidi/ImageGallery/static/css/main.277d6899.css",
+    "main.js": "/srinivasPagidi/ImageGallery/static/js/main.91b7eb20.js",
+    "static/js/787.4b1552e3.chunk.js": "/srinivasPagidi/ImageGallery/static/js/787.4b1552e3.chunk.js",
+    "index.html": "/srinivasPagidi/ImageGallery/index.html",
+    "main.277d6899.css.map": "/srinivasPagidi/ImageGallery/static/css/main.277d6899.css.map",
+    "main.91b7eb20.js.map": "/srinivasPagidi/ImageGallery/static/js/main.91b7eb20.js.map",
+    "787.4b1552e3.chunk.js.map": "/srinivasPagidi/ImageGallery/static/js/787.4b1552e3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.277d6899.css",
+    "static/js/main.91b7eb20.js"
+  ]
+}
